@@ -1,3 +1,1 @@
-### greetings()
-
-![index.png](https://raw.githubusercontent.com/ipbol/ipbol/master/index.png)
+[![index.png](./greet.png)](https://birla.io)
